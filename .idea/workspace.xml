@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b7a2a00-5acd-4ea6-b979-d7d635dcc1b4" name="Default" comment="" />
+    <list default="true" id="5b7a2a00-5acd-4ea6-b979-d7d635dcc1b4" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_lidchanin___hostel_1_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_lidchanin___hostel_1_war__exploded_.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jsp_jsp_api_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/controller/MainController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/JsonConverter.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/Project.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/Project.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/RoleEnum.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/RoleEnum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/Task.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/Task.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/TaskLog.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/TaskLog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/User.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/model/User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/ProjectServiceImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/ProjectServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/TaskLogServiceImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/TaskLogServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/TaskServiceImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/TaskServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/UserServiceImpl.class" afterPath="$PROJECT_DIR$/build/classes/main/com/lidchanin/pms/service/UserServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/561728e8-8b9e-4460-b72b-f702705a5dee.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/561728e8-8b9e-4460-b72b-f702705a5dee.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/project_manager_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/project_manager_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/project_manager_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/project_manager_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/RoleEnum.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/RoleEnum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/UserRepository.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/UserRepository.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserServiceImpl.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -131,108 +171,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProjectService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java">
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+              <folding>
+                <element signature="method#MainController#0;class#MainController#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Project.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskLogService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskLogServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Serializable.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/Serializable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-              <folding>
-                <element signature="method#Task#1;class#Task#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TaskLog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProjectServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JsonConverter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -248,6 +236,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -428,7 +419,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../HostelRebirth" value="1488213644154" />
-        <entry key="$PROJECT_DIR$" value="1489436897294" />
+        <entry key="$PROJECT_DIR$" value="1489591411947" />
         <entry key="$PROJECT_DIR$/../../TourOfHeroes" value="1488794005546" />
         <entry key="$USER_HOME$/Downloads/GradleWarPlugin" value="1440390627152" />
       </map>
@@ -535,12 +526,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Room.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/repository/RoomRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/repository/StudentRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/RoomService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/StudentService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/impl/RoomServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/impl/StudentServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/controller/HostelController.java" />
@@ -569,23 +554,29 @@
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Project.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Task.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/ProjectLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/JsonConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/RoleEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/JsonConverter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java" />
       </list>
     </option>
   </component>
@@ -608,6 +599,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -676,66 +668,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="pms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -813,46 +745,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project_manager" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -896,7 +788,7 @@
       <recent name="C:\Users\Lidchanin\Documents\JavaProjects\project_manager\src\main\webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
+  <component name="RunManager" selected="Tomcat Server.Local Tomcat">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
       <deployment />
       <server-settings />
@@ -1233,11 +1125,11 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration default="false" name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M17" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration default="false" name="Local Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M17" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/api/pms" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="Gradle : com.lidchanin : hostel-1.war (exploded)">
+        <artifact name="Gradle : com.lidchanin : pms-1.war (exploded)">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -1302,12 +1194,12 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="Gradle : com.lidchanin : hostel-1.war (exploded)" />
+          <artifact name="Gradle : com.lidchanin : pms-1.war (exploded)" />
         </option>
       </method>
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Local Tomcat" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -1325,12 +1217,12 @@
       <updated>1489132615201</updated>
       <workItem from="1489132618869" duration="33799000" />
       <workItem from="1489438641680" duration="6461000" />
-      <workItem from="1489566216218" duration="1609000" />
+      <workItem from="1489566216218" duration="21034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41869000" />
+    <option name="totallyTimeSpent" value="61294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1346,22 +1238,22 @@
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4968017" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50319827" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1393,52 +1285,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew.bat" />
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/main.jsp" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/RoomService.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/repository/RoomRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/impl/RoomServiceImpl.java" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/beffee5b-4a55-4292-be5f-0638a1150b22/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/561728e8-8b9e-4460-b72b-f702705a5dee/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Column.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="69" column="12" lean-forward="false" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Room.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/model/Student.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/repository/StudentRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/repository/RoleRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/StudentService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/impl/StudentServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/RoleService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/RoleServiceImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pm/service/TaskRepository.java" />
@@ -1448,49 +1295,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/error403.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login.jsp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/ProjectLog.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/RoleEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.6.RELEASE/e41b15afc71764f982eec257729ac3fddda78f3e/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ResponseBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1503,132 +1307,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-          <folding>
-            <element signature="method#User#1;class#User#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="method#MainController#0;class#MainController#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="33" column="7" lean-forward="false" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding>
-            <element signature="method#Task#1;class#Task#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1649,21 +1327,314 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/Serializable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="38" lean-forward="false" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state relative-caret-position="153">
+          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GenerationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.8.0/29a1a95363d497e856c0a7d682e4f7973e334068/jackson-annotations-2.8.0-sources.jar!/com/fasterxml/jackson/annotation/JsonIgnore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="46" column="18" lean-forward="false" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/OneToMany.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="30" column="61" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/RoleEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/ManyToOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/TaskLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/io/Serializable.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Enumerated.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        <state relative-caret-position="119">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="21" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Final/33fbaa7276b774ef0925f541640f6ff23fbc62dc/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/JoinTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#User#1;class#User#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.7/1c4ce0c6d76f9fef808cc3c7b602219799a73d70/jackson-databind-2.8.7-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="38" column="22" lean-forward="false" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.8.7/1c4ce0c6d76f9fef808cc3c7b602219799a73d70/jackson-databind-2.8.7-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="40" column="59" lean-forward="false" selection-start-line="40" selection-start-column="59" selection-end-line="40" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/config/mapper/JsonConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.11.0.RELEASE/2ac4423b606c3a33bd70c4c40bceaf2611ec90e0/spring-data-jpa-1.11.0.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="37" column="8" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.6.RELEASE/49943c4c9945a5a4e256d7e360ad3872696a769e/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/stereotype/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/ProjectRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskLogRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/TaskRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="157" column="6" lean-forward="true" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
+          <folding>
+            <element signature="method#Task#1;class#Task#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.6.RELEASE/49943c4c9945a5a4e256d7e360ad3872696a769e/spring-context-4.3.6.RELEASE-sources.jar!/org/springframework/stereotype/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.6.RELEASE/e41b15afc71764f982eec257729ac3fddda78f3e/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="31" column="2" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="31" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.6.RELEASE/e41b15afc71764f982eec257729ac3fddda78f3e/spring-web-4.3.6.RELEASE-sources.jar!/org/springframework/web/bind/annotation/ResponseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/model/Project.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/ProjectService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/TaskService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lidchanin/pms/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="45" column="6" lean-forward="true" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+          <folding>
+            <element signature="method#MainController#0;class#MainController#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
