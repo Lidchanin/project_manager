@@ -1,9 +1,12 @@
 package com.lidchanin.pms.service;
 
 import com.lidchanin.pms.config.mapper.JsonConverter;
+import com.lidchanin.pms.model.Project;
 import com.lidchanin.pms.repository.ProjectRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.List;
 
 /**
  * Class <code>ProjectServiceImpl</code> represents functions for working
@@ -22,14 +25,33 @@ public class ProjectServiceImpl implements ProjectService {
 
     private JsonConverter jsonConverter = new JsonConverter();
 
-    /**
-     * Method <code>getAllProjectJSON</code> receive all project from the
-     * database. And after receiving convert this to JSON String
-     * @return all project in JSON String format.
-     */
     @Override
-    public String getAllProjectJSON() {
-        return jsonConverter.toJSON(projectRepository.findAll());
+    public Project findProjectById(long id) {
+        return projectRepository.findOne(id);
     }
 
+    @Override
+    public void saveProject(Project project) {
+        projectRepository.save(project);
+    }
+
+    @Override
+    public void deleteProject(Project project) {
+        projectRepository.delete(project);
+    }
+
+    @Override
+    public void deleteProjectById(long id) {
+        projectRepository.delete(id);
+    }
+
+    @Override
+    public List<Project> getAlProjects() {
+        return projectRepository.findAll();
+    }
+
+    @Override
+    public String getAllProjectsJSON() {
+        return jsonConverter.toJSON(projectRepository.findAll());
+    }
 }

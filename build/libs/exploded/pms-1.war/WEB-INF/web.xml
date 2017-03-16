@@ -16,6 +16,7 @@
         <url-pattern>/</url-pattern>
     </servlet-mapping>
 
+    <!--for support JavaConfig-->
     <context-param>
         <param-name>contextClass</param-name>
         <param-value>org.springframework.web.context.support.AnnotationConfigWebApplicationContext</param-value>

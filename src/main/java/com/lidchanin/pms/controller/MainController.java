@@ -54,10 +54,10 @@ public class MainController {
      *
      * @return all project in JSON String format.
      */
-    @RequestMapping(value = "/getAllProjects", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    @RequestMapping(value = {"/getAllProjects", "/getallprojects"}, method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
     public String getAllProjects() {
-        return projectService.getAllProjectJSON();
+        return projectService.getAllProjectsJSON();
     }
 
 }
