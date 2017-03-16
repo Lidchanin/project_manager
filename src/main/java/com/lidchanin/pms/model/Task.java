@@ -127,7 +127,6 @@ public class Task implements Serializable {
      * persistent property or field.
      * @see Column
      */
-    // todo: check, work default value or not
     @Column(name = "readiness", nullable = false, columnDefinition = "boolean default false")
     private boolean readiness;
 
